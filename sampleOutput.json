@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "news24",
+            "title": "Adriaan's top 10 reads of the day | Transnet rail chief quits, march against Pappas, World Cup crickets",
+            "description": "Transnet rail chief quits, march against Pappas, World Cup crickets. Here are Adriaan's top 10 reads of the day.",
+            "url": "https://www.news24.com/news24/southafrica/news/adriaans-top-10-reads-of-the-day-transnet-rail-chief-quits-march-against-pappas-world-cup-crickets-20231005",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9517/1642956c3ce546288fd68f853333155e.jpg",
+            "publishedAt": "2023-10-05T17:26:39",
+            "content": "After a year-long battle by business and organised labour,\r\nTransnet Freight Rail CEO Siza Mzimela has resigned. Her departure\r\nfollows that of Transnet CEO Portia Derby. Speaking at the Joburg Minin… [+703 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "‘Where’s the crowd?’: Fans deride empty stadium at Cricket World Cup opener",
+            "description": "Cricket fans slam organisers as the ICC Cricket World Cup gets underway amidst thousands of empty seats in Ahmedabad.",
+            "url": "http://www.aljazeera.com/sports/2023/10/5/where-is-the-crowd-fans-deride-empty-stadium-at-world-cup-opening-match",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/10/2023-10-05T125507Z_443924324_UP1EJA50ZVTEU_RTRMADP_3_CRICKET-WORLDCUP-ENG-NZL-1696512421.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-10-05T15:57:41Z",
+            "content": "It was billed as the most anticipated cricket event of the year, held in the sports biggest stadium globally, in a country that is known to worship the game.\r\nBut when the ICC Cricket World Cup 2023 … [+5848 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Philippe Escande",
+            "title": "Coupe du monde de cricket : « L’affirmation de la nouvelle puissance de l’Inde dans le monde »",
+            "description": "Pour la quatrième fois, la péninsule indienne accueille la Coupe du monde de cricket.  Les sponsors se sont bousculés pour avancer leurs pions sur l’un des seuls grands pays affichant encore une forte croissance dans le monde.",
+            "url": "https://www.lemonde.fr/economie/article/2023/10/05/coupe-du-monde-de-cricket-l-affirmation-de-la-nouvelle-puissance-de-l-inde-dans-le-monde_6192604_3234.html",
+            "urlToImage": "https://img.lemde.fr/2023/10/05/0/0/4648/3099/1440/960/60/0/b1337eb_1696496032461-000-33xb8ed.jpg",
+            "publishedAt": "2023-10-05T09:30:09Z",
+            "content": "Le stade Narendra Modi, à Ahmedabad, mercredi 4 octobre 2023. SAM PANTHAKY / AFP\r\nAngleterre - Nouvelle-Zélande. Ce nest pas laffiche de la prochaine finale du Mondial de rugby, qui se déroule en Fra… [+2407 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Sean O'Brien",
+            "title": "Fans bemused as England begin Cricket World Cup in almost-empty stadium despite world-beating capacity...",
+            "description": "England and New Zealand kicked off the 2023 Cricket World Cup in a nearly-empty stadium on Thursday. The Narendra Modi Stadium in Ahmedabad is hosting the opening match of the tournament in India a…",
+            "url": "https://talksport.com/sport/cricket/1589618/fans-england-cricket-world-cup-empty-stadium-capacity/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/09/players-england-new-zealand-line-850197108.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "publishedAt": "2023-10-05T08:58:02Z",
+            "content": "England and New Zealand kicked off the 2023 Cricket World Cup in a nearly-empty stadium on Thursday. \r\nThe Narendra Modi Stadium in Ahmedabad is hosting the opening match of the tournament in India a… [+1061 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "World Cup: England bat first after NZ win toss - clips, radio & text",
+            "description": "Follow live text, in-play video clips and radio commentary as England play New Zealand in the opening game of the Men's Cricket World Cup 2023.",
+            "url": "http://www.bbc.co.uk/sport/live/cricket/66854204",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2023-10-05T08:22:25.5339012Z",
+            "content": "England: Jonny Bairstow, Dawid Malan, Joe Root, Harry Brook, Jos Buttler (capt/wk), Moeen Ali, Liam Livingstone, Chris Woakes, Sam Curran, Adil Rashid, Mark Wood.\r\nNew Zealand: Devon Conway, Will You… [+145 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
